@@ -1,0 +1,4 @@
+name: backrooms-plugin-for-paper
+version: '1.0'
+main: net.daylight.backroomsPluginForPaper.BackroomsPluginForPaper
+api-version: '1.21'
