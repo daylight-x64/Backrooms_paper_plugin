@@ -1,4 +1,7 @@
 name: backrooms-plugin-for-paper
 version: '1.0'
-main: net.daylight.backroomsPluginForPaper.BackroomsPluginForPaper
+main: net.daylight.backroomsPluginForPaper.Main
 api-version: '1.21'
+
+commands:
+  backroom-block:
