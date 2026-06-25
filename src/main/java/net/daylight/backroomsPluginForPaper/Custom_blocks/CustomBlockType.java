@@ -19,6 +19,7 @@ public enum CustomBlockType {
     private final Note note;
     private final String displayName;
 
+
     CustomBlockType(Instrument instrument, Note note, String displayName) {
         this.instrument = instrument;
         this.note = note;
